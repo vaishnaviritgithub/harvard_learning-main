@@ -1,0 +1,22 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [
+    "static/chunks/f3100_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_f554f15b._.js",
+    "static/chunks/f3100_next_dist_compiled_react-dom_d0d48323._.js",
+    "static/chunks/f3100_next_dist_compiled_react-server-dom-turbopack_04bc4489._.js",
+    "static/chunks/f3100_next_dist_compiled_next-devtools_index_7c1d236e.js",
+    "static/chunks/f3100_next_dist_compiled_9cec1780._.js",
+    "static/chunks/f3100_next_dist_client_926176d8._.js",
+    "static/chunks/f3100_next_dist_46a6a32e._.js",
+    "static/chunks/f3100_@swc_helpers_cjs_0d521043._.js",
+    "static/chunks/Desktop_harvard_learning-main_harvard_learning-main_a0ff3932._.js",
+    "static/chunks/turbopack-Desktop_harvard_learning-main_harvard_learning-main_1a1065a1._.js"
+  ],
+  "pages": {},
+  "ampFirstPages": []
+}
