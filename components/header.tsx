@@ -52,29 +52,56 @@ bg-clip-text text-transparent">
     </span>
   </div>
 </Link>
-       <nav className="hidden md:flex items-center gap-2">
+      <nav className="hidden md:flex items-center gap-2 bg-white/70 backdrop-blur-md rounded-full p-1 shadow-sm">
+
+  {/* Home – Active */}
   <Link href="/">
-    <Button className="bg-gradient-to-r from-blue-600 to-purple-600 text-white hover:from-blue-700 hover:to-purple-700 rounded-full px-6 transition-all">
+    <button
+      className="
+        px-6 py-2 rounded-full font-medium text-gray-600
+        hover:bg-gradient-to-r from-blue-600 to-purple-600
+        transition-all duration-300
+      
+      "
+    >
       Home
-    </Button>
+    </button>
   </Link>
-
+  
+   {/* About */}
   <Link href="/about">
-    <Button variant="ghost" className="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
+    <button
+      className="
+        px-6 py-2 rounded-full font-medium text-gray-600
+        hover:bg-gradient-to-r from-blue-600 to-purple-600
+        transition-all duration-300
+      "
+    >
       About
-    </Button>
+    </button>
   </Link>
-
   <Link href="/courses">
-    <Button variant="ghost" className="text-gray-700 hover:text-blue-900">
+    <button
+      className="
+        px-6 py-2 rounded-full font-medium text-gray-600
+        hover:bg-gradient-to-r from-blue-600 to-purple-600
+        transition-all duration-300
+      "
+    >
       Courses
-    </Button>
+    </button>
   </Link>
 
   <Link href="/persona">
-    <Button variant="ghost" className="text-gray-700 hover:text-blue-900">
+     <button
+      className="
+        px-6 py-2 rounded-full font-medium text-gray-600
+        hover:bg-gradient-to-r from-blue-600 to-purple-600
+        transition-all duration-300
+      "
+    >
       Persona
-    </Button>
+    </button>
   </Link>
 </nav>
 

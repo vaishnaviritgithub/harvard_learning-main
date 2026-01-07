@@ -1,1 +1,2201 @@
-[00:00:02.687] Server  LOG      ✓ Ready in 1706ms
+[00:00:03.562] Server  LOG      ✓ Ready in 2.4s
+[00:00:06.628] Server  LOG      ○ Compiling /about ...
+[00:00:07.972] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/app/about/page.tsx:11:1
+Export CommitmentSection doesn't exist in target module
+   9 | import { AboutHero } from "@/components/about-hero"
+  10 | import { MissionSection } from "@/components/mission-section"
+> 11 | import { CommitmentSection } from "@/components/commitment-section"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 | import { LeadershipSection } from "@/components/leadership-section"
+  13 | import { PromisesSection } from "@/components/promises-section"
+  14 | import { Footer } from "@/components/footer"
+
+The export CommitmentSection was not found in module [project]/Desktop/harvard/harvard_learning-main/components/commitment-section.tsx [app-rsc] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+
+[00:00:10.755] Browser ERROR   uncaughtError: Error: ./Desktop/harvard/harvard_learning-main/app/about/page.tsx:11:1
+Export CommitmentSection doesn't exist in target module
+   9 | import { AboutHero } from "@/components/about-hero"
+  10 | import { MissionSection } from "@/components/mission-section"
+> 11 | import { CommitmentSection } from "@/components/commitment-section"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 | import { LeadershipSection } from "@/components/leadership-section"
+  13 | import { PromisesSection } from "@/components/promises-section"
+  14 | import { Footer } from "@/components/footer"
+
+The export CommitmentSection was not found in module [project]/Desktop/harvard/harvard_learning-main/components/commitment-section.tsx [app-rsc] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+
+[00:00:10.917] Browser ERROR   ./Desktop/harvard/harvard_learning-main/app/about/page.tsx:11:1
+Export CommitmentSection doesn't exist in target module
+   9 | import { AboutHero } from "@/components/about-hero"
+  10 | import { MissionSection } from "@/components/mission-section"
+> 11 | import { CommitmentSection } from "@/components/commitment-section"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 | import { LeadershipSection } from "@/components/leadership-section"
+  13 | import { PromisesSection } from "@/components/promises-section"
+  14 | import { Footer } from "@/components/footer"
+
+The export CommitmentSection was not found in module [project]/Desktop/harvard/harvard_learning-main/components/commitment-section.tsx [app-rsc] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+[00:00:11.022] Browser ERROR   ./Desktop/harvard/harvard_learning-main/app/about/page.tsx:11:1
+Export CommitmentSection doesn't exist in target module
+   9 | import { AboutHero } from "@/components/about-hero"
+  10 | import { MissionSection } from "@/components/mission-section"
+> 11 | import { CommitmentSection } from "@/components/commitment-section"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 | import { LeadershipSection } from "@/components/leadership-section"
+  13 | import { PromisesSection } from "@/components/promises-section"
+  14 | import { Footer } from "@/components/footer"
+
+The export CommitmentSection was not found in module [project]/Desktop/harvard/harvard_learning-main/components/commitment-section.tsx [app-rsc] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+[00:00:25.740] Browser ERROR   uncaughtError: Error: ./Desktop/harvard/harvard_learning-main/app/about/page.tsx:11:1
+Export CommitmentSection doesn't exist in target module
+   9 | import { AboutHero } from "@/components/about-hero"
+  10 | import { MissionSection } from "@/components/mission-section"
+> 11 | import { CommitmentSection } from "@/components/commitment-section"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 | import { LeadershipSection } from "@/components/leadership-section"
+  13 | import { PromisesSection } from "@/components/promises-section"
+  14 | import { Footer } from "@/components/footer"
+
+The export CommitmentSection was not found in module [project]/Desktop/harvard/harvard_learning-main/components/commitment-section.tsx [app-rsc] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+
+[00:00:25.930] Browser ERROR   ./Desktop/harvard/harvard_learning-main/app/about/page.tsx:11:1
+Export CommitmentSection doesn't exist in target module
+   9 | import { AboutHero } from "@/components/about-hero"
+  10 | import { MissionSection } from "@/components/mission-section"
+> 11 | import { CommitmentSection } from "@/components/commitment-section"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 | import { LeadershipSection } from "@/components/leadership-section"
+  13 | import { PromisesSection } from "@/components/promises-section"
+  14 | import { Footer } from "@/components/footer"
+
+The export CommitmentSection was not found in module [project]/Desktop/harvard/harvard_learning-main/components/commitment-section.tsx [app-rsc] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+[00:00:25.930] Browser ERROR   ./Desktop/harvard/harvard_learning-main/app/about/page.tsx:11:1
+Export CommitmentSection doesn't exist in target module
+   9 | import { AboutHero } from "@/components/about-hero"
+  10 | import { MissionSection } from "@/components/mission-section"
+> 11 | import { CommitmentSection } from "@/components/commitment-section"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 | import { LeadershipSection } from "@/components/leadership-section"
+  13 | import { PromisesSection } from "@/components/promises-section"
+  14 | import { Footer } from "@/components/footer"
+
+The export CommitmentSection was not found in module [project]/Desktop/harvard/harvard_learning-main/components/commitment-section.tsx [app-rsc] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+[00:01:49.210] Browser ERROR   ./Desktop/harvard/harvard_learning-main/app/about/page.tsx:11:1
+Export CommitmentSection doesn't exist in target module
+   9 | import { AboutHero } from "@/components/about-hero"
+  10 | import { MissionSection } from "@/components/mission-section"
+> 11 | import { CommitmentSection } from "@/components/commitment-section"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 | import { LeadershipSection } from "@/components/leadership-section"
+  13 | import { PromisesSection } from "@/components/promises-section"
+  14 | import { Footer } from "@/components/footer"
+
+The export CommitmentSection was not found in module [project]/Desktop/harvard/harvard_learning-main/components/commitment-section.tsx [app-rsc] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+[00:02:07.318] Server  LOG      ✓ Compiled in 316ms
+[00:02:08.204] Browser ERROR   ./Desktop/harvard/harvard_learning-main/app/about/page.tsx:11:1
+Export CommitmentSection doesn't exist in target module
+   9 | import { AboutHero } from "@/components/about-hero"
+  10 | import { MissionSection } from "@/components/mission-section"
+> 11 | import { CommitmentSection } from "@/components/commitment-section"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 | import { LeadershipSection } from "@/components/leadership-section"
+  13 | import { PromisesSection } from "@/components/promises-section"
+  14 | import { Footer } from "@/components/footer"
+
+The export CommitmentSection was not found in module [project]/Desktop/harvard/harvard_learning-main/components/commitment-section.tsx [app-rsc] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+[00:03:12.548] Server  LOG      ✓ Compiled in 81ms
+[00:03:15.626] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:16.222] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:03:16.222] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:03:16.222] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767773611270}
+[00:05:23.250] Server  LOG      ✓ Compiled in 98ms
+[00:05:28.272] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:28.649] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:05:28.649] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:05:28.649] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767773743886}
+[00:05:30.264] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767773745508}
+[00:08:43.225] Server  LOG      ✓ Compiled in 313ms
+[00:08:44.202] Browser ERROR   ./Desktop/harvard/harvard_learning-main/app/about/page.tsx:12:1
+Export default doesn't exist in target module
+  10 | import { MissionSection } from "@/components/mission-section"
+  11 |
+> 12 | import CommitmentSection from "@/components/commitment-section"
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  13 | import { LeadershipSection } from "@/components/leadership-section"
+  14 | import { PromisesSection } from "@/components/promises-section"
+  15 | import { Footer } from "@/components/footer"
+
+The export default was not found in module [project]/Desktop/harvard/harvard_learning-main/components/commitment-section.tsx [app-rsc] (ecmascript).
+Did you mean to import CommitmentSection?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+[01:25:59.136] Server  LOG      ✓ Compiled in 668ms
+[01:26:08.525] Server  ERROR   C:\Users\ugemu\Desktop\harvard\harvard_learning-main\.next\dev\server\chunks\ssr\[root-of-the-server]__68b6df70._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:26:08.629] Server  ERROR    ⨯ ReferenceError: Image is not defined
+[01:26:09.211] Browser ERROR   uncaughtError: ReferenceError: Image is not defined
+[02:35:40.009] Server  LOG      ✓ Compiled in 13.6s
+[02:35:53.053] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:35:53.578] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[02:35:53.578] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[02:35:53.578] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767782768743}
+[02:35:56.642] Server  LOG      ○ Compiling /_not-found/page ...
+[02:36:34.908] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767782809926}
+[02:37:00.835] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767782836074}
+[02:38:16.181] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767782911425}
+[02:38:17.461] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767782912705}
+[02:38:46.624] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:38:46.801] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[02:38:46.801] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/courses","route":"/courses"}
+[02:38:46.801] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/courses color: rgb(120, 120, 120) color: inherit {"dp":"/courses","o":"http://localhost:3000/courses","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767782941993}
+[02:38:53.140] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:38:53.268] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[02:38:53.268] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[02:38:53.268] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767782948516}
+[02:41:40.460] Server  ERROR   C:\Users\ugemu\Desktop\harvard\harvard_learning-main\.next\dev\server\chunks\ssr\[root-of-the-server]__68b6df70._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[02:41:40.473] Server  ERROR    ⨯ ReferenceError: pathname is not defined
+[02:41:40.681] Server  ERROR   C:\Users\ugemu\Desktop\harvard\harvard_learning-main\.next\dev\server\chunks\ssr\[root-of-the-server]__68b6df70._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[02:41:40.681] Server  ERROR    ⨯ ReferenceError: pathname is not defined
+[02:41:41.214] Browser ERROR   uncaughtError: ReferenceError: pathname is not defined
+[02:42:02.303] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:42:03.201] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[02:42:03.202] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[02:42:03.202] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767783137725}
+[02:44:49.146] Server  LOG      ○ Compiling / ...
+[02:45:00.402] Server  LOG      ✓ Compiled in 18.1s
+[02:45:01.149] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:45:01.281] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[02:45:01.281] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[02:45:01.281] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767783316524}
+[02:45:05.216] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767783320415}
+[02:45:06.623] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767783321864}
+[02:45:07.751] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:45:07.873] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[02:45:07.874] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/courses","route":"/courses"}
+[02:45:07.874] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/courses color: rgb(120, 120, 120) color: inherit {"dp":"/courses","o":"http://localhost:3000/courses","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767783323115}
+[02:45:09.905] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:45:10.046] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[02:45:10.046] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[02:45:10.046] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767783325295}
+[02:45:11.218] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767783326461}
+[02:46:09.337] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767783384582}
+[02:46:10.535] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767783385779}
+[03:42:16.585] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767786751818}
+[03:43:27.832] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:43:28.000] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:43:28.001] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/courses","route":"/courses"}
+[03:43:28.001] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/courses color: rgb(120, 120, 120) color: inherit {"dp":"/courses","o":"http://localhost:3000/courses","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767786823243}
+[03:43:29.784] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:43:29.953] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:43:29.953] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[03:43:29.953] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767786825192}
+[03:43:31.376] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767786826617}
+[03:44:31.058] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767786886264}
+[03:46:16.198] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:8:10
+Ecmascript file had an error
+   6 |
+   7 |
+>  8 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+   9 |
+  10 | export function Header() {
+  11 |   return (
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:46:52.207] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:8:10
+Ecmascript file had an error
+   6 |
+   7 |
+>  8 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+   9 |
+  10 | export function Header() {
+  11 |   const pathname = usePathname()
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:47:36.206] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:85:2
+Parsing ecmascript source code failed
+  83 |     </header>
+  84 |   )
+> 85 | }
+     |  ^
+  86 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:47:57.201] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:85:2
+Parsing ecmascript source code failed
+  83 |     </header>
+  84 |   )
+> 85 | }
+     |  ^
+  86 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:49:26.206] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:85:2
+Parsing ecmascript source code failed
+  83 |     </header>
+  84 |   )
+> 85 | }
+     |  ^
+  86 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:49:26.206] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:85:2
+Parsing ecmascript source code failed
+  83 |     </header>
+  84 |   )
+> 85 | }
+     |  ^
+  86 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:49:28.199] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:85:2
+Parsing ecmascript source code failed
+  83 |     </header>
+  84 |   )
+> 85 | }
+     |  ^
+  86 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:49:31.200] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:85:2
+Parsing ecmascript source code failed
+  83 |     </header>
+  84 |   )
+> 85 | }
+     |  ^
+  86 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:49:34.201] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:85:2
+Parsing ecmascript source code failed
+  83 |     </header>
+  84 |   )
+> 85 | }
+     |  ^
+  86 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:49:35.201] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:85:2
+Parsing ecmascript source code failed
+  83 |     </header>
+  84 |   )
+> 85 | }
+     |  ^
+  86 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:49:45.198] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:85:2
+Parsing ecmascript source code failed
+  83 |     </header>
+  84 |   )
+> 85 | }
+     |  ^
+  86 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:49:52.209] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:85:2
+Parsing ecmascript source code failed
+  83 |     </header>
+  84 |   )
+> 85 | }
+     |  ^
+  86 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:50:09.196] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:85:2
+Parsing ecmascript source code failed
+  83 |     </header>
+  84 |   )
+> 85 | }
+     |  ^
+  86 |
+
+Expected '}', got '<eof>'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:50:36.200] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:8:10
+Ecmascript file had an error
+   6 |
+   7 |
+>  8 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+   9 |
+  10 | export function Header() {}
+  11 |   
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:50:55.207] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:8:10
+Ecmascript file had an error
+   6 |
+   7 |
+>  8 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+   9 |
+  10 | export function Header() {
+  11 |   
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:50:59.769] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/components/header.tsx:8:10
+Ecmascript file had an error
+   6 |
+   7 |
+>  8 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+   9 |
+  10 | export function Header() {
+  11 |   
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[03:50:59.997] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:8:10
+Ecmascript file had an error
+   6 |
+   7 |
+>  8 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+   9 |
+  10 | export function Header() {
+  11 |   
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:51:00.170] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:8:10
+Ecmascript file had an error
+   6 |
+   7 |
+>  8 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+   9 |
+  10 | export function Header() {
+  11 |   
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:51:00.420] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:8:10
+Ecmascript file had an error
+   6 |
+   7 |
+>  8 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+   9 |
+  10 | export function Header() {
+  11 |   
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:51:00.719] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:8:10
+Ecmascript file had an error
+   6 |
+   7 |
+>  8 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+   9 |
+  10 | export function Header() {
+  11 |   
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:51:02.197] Browser ERROR   uncaughtError: Error: ./Desktop/harvard/harvard_learning-main/components/header.tsx:8:10
+Ecmascript file had an error
+   6 |
+   7 |
+>  8 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+   9 |
+  10 | export function Header() {
+  11 |   
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[03:51:02.374] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:8:10
+Ecmascript file had an error
+   6 |
+   7 |
+>  8 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+   9 |
+  10 | export function Header() {
+  11 |   
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:51:02.374] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:8:10
+Ecmascript file had an error
+   6 |
+   7 |
+>  8 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+   9 |
+  10 | export function Header() {
+  11 |   
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/page.tsx
+[03:51:03.223] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:8:10
+Ecmascript file had an error
+   6 |
+   7 |
+>  8 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+   9 |
+  10 | export function Header() {
+  11 |   
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[03:51:41.677] Server  LOG      ✓ Compiled in 1178ms
+[03:51:43.887] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:51:44.218] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:51:44.218] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[03:51:44.218] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767787319453}
+[03:53:55.947] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767787451182}
+[03:53:56.139] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767787451372}
+[03:53:59.366] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767787454611}
+[03:54:00.692] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767787455929}
+[03:54:01.928] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767787457170}
+[03:55:31.049] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767787546288}
+[03:55:31.583] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:55:31.764] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:55:31.764] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/courses","route":"/courses"}
+[03:55:31.764] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/courses color: rgb(120, 120, 120) color: inherit {"dp":"/courses","o":"http://localhost:3000/courses","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767787546998}
+[03:55:34.617] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:55:34.804] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:55:34.804] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[03:55:34.804] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767787550048}
+[03:55:36.826] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:55:36.972] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:55:36.972] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/persona","route":"/persona"}
+[03:55:36.972] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/persona color: rgb(120, 120, 120) color: inherit {"dp":"/persona","o":"http://localhost:3000/persona","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767787552215}
+[03:55:38.718] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:55:38.930] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[03:55:38.931] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[03:55:38.931] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767787554165}
+[04:05:20.485] Server  LOG      ✓ Compiled in 5.1s
+[04:05:24.009] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:05:24.358] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:05:24.358] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[04:05:24.358] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788139540}
+[04:05:26.857] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788142100}
+[04:05:29.626] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788144869}
+[04:05:33.689] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788148923}
+[04:05:33.984] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788149224}
+[04:05:38.945] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788154192}
+[04:05:40.246] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:05:40.417] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:05:40.417] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/courses","route":"/courses"}
+[04:05:40.417] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/courses color: rgb(120, 120, 120) color: inherit {"dp":"/courses","o":"http://localhost:3000/courses","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788155664}
+[04:05:43.498] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:05:43.732] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:05:43.732] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:05:43.732] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788158980}
+[04:10:28.541] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:10:28.889] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:10:28.889] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:10:28.889] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788444123}
+[04:10:35.991] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[04:10:36.207] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/page.tsx
+
+
+[04:10:37.117] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[04:10:37.117] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[04:10:37.118] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[04:10:37.145] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[04:10:37.228] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[04:10:37.267] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[04:10:37.341] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[04:10:37.866] Browser ERROR   uncaughtError: Error: ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[04:10:38.014] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[04:10:38.014] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/page.tsx
+[04:10:38.770] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[04:10:48.378] Browser ERROR   uncaughtError: Error: ./Desktop/harvard/harvard_learning-main/components/header.tsx:70:9
+Parsing ecmascript source code failed
+  68 |
+  69 | const navItems = [
+> 70 |   { name: "Home", href: "/" },
+     |         ^
+  71 |   { name: "About", href: "/about" },
+  72 |   { name: "Courses", href: "/courses" },
+  73 |   { name: "Persona", href: "/persona" },
+
+Expected '</', got ':'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[04:10:48.498] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:12:1
+Ecmascript file had an error
+  10 |
+  11 |
+> 12 | "use client"
+     | ^^^^^^^^^^^^
+  13 |
+  14 |
+  15 | import { usePathname } from "next/navigation"
+
+The "use client" directive must be placed before other expressions. Move it to the top of the file to resolve this issue.
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[04:10:48.498] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:15:10
+Ecmascript file had an error
+  13 |
+  14 |
+> 15 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+  16 |
+  17 | export function Header() {
+  18 |   return (
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[04:10:48.498] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:12:1
+Ecmascript file had an error
+  10 |
+  11 |
+> 12 | "use client"
+     | ^^^^^^^^^^^^
+  13 |
+  14 |
+  15 | import { usePathname } from "next/navigation"
+
+The "use client" directive must be placed before other expressions. Move it to the top of the file to resolve this issue.
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/page.tsx
+[04:10:48.498] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:15:10
+Ecmascript file had an error
+  13 |
+  14 |
+> 15 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+  16 |
+  17 | export function Header() {
+  18 |   return (
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/page.tsx
+[04:10:48.622] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:12:1
+Ecmascript file had an error
+  10 |
+  11 |
+> 12 | "use client"
+     | ^^^^^^^^^^^^
+  13 |
+  14 |
+  15 | import { usePathname } from "next/navigation"
+
+The "use client" directive must be placed before other expressions. Move it to the top of the file to resolve this issue.
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[04:10:48.622] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:15:10
+Ecmascript file had an error
+  13 |
+  14 |
+> 15 | import { usePathname } from "next/navigation"
+     |          ^^^^^^^^^^^
+  16 |
+  17 | export function Header() {
+  18 |   return (
+
+You're importing a component that needs `usePathname`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[04:11:01.804] Server  LOG      ✓ Compiled in 752ms
+[04:11:02.602] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:11:02.602] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:11:02.602] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/persona","route":"/persona"}
+[04:11:02.602] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/persona color: rgb(120, 120, 120) color: inherit {"dp":"/persona","o":"http://localhost:3000/persona","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788477906}
+[04:11:04.604] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:11:04.743] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:11:04.743] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/persona","route":"/persona"}
+[04:11:04.743] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/persona color: rgb(120, 120, 120) color: inherit {"dp":"/persona","o":"http://localhost:3000/persona","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788479988}
+[04:11:06.119] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:11:06.251] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:11:06.252] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/persona","route":"/persona"}
+[04:11:06.252] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/persona color: rgb(120, 120, 120) color: inherit {"dp":"/persona","o":"http://localhost:3000/persona","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788481495}
+[04:11:15.859] Server  LOG      ✓ Compiled in 372ms
+[04:11:16.483] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:11:16.922] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:11:16.922] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/persona","route":"/persona"}
+[04:11:16.922] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/persona color: rgb(120, 120, 120) color: inherit {"dp":"/persona","o":"http://localhost:3000/persona","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788491897}
+[04:11:18.881] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:11:19.023] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:11:19.023] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/persona","route":"/persona"}
+[04:11:19.023] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/persona color: rgb(120, 120, 120) color: inherit {"dp":"/persona","o":"http://localhost:3000/persona","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788494267}
+[04:11:20.909] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:11:21.060] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:11:21.060] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/persona","route":"/persona"}
+[04:11:21.060] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/persona color: rgb(120, 120, 120) color: inherit {"dp":"/persona","o":"http://localhost:3000/persona","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788496297}
+[04:11:26.535] Server  LOG      ✓ Compiled in 457ms
+[04:11:26.982] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:11:27.118] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:11:27.118] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/persona","route":"/persona"}
+[04:11:27.118] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/persona color: rgb(120, 120, 120) color: inherit {"dp":"/persona","o":"http://localhost:3000/persona","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788502367}
+[04:11:29.014] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:11:29.151] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:11:29.152] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/persona","route":"/persona"}
+[04:11:29.152] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/persona color: rgb(120, 120, 120) color: inherit {"dp":"/persona","o":"http://localhost:3000/persona","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788504390}
+[04:11:29.503] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:11:29.637] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:11:29.637] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/persona","route":"/persona"}
+[04:11:29.638] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/persona color: rgb(120, 120, 120) color: inherit {"dp":"/persona","o":"http://localhost:3000/persona","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788504879}
+[04:11:31.783] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:11:32.157] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:11:32.157] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:11:32.157] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788507319}
+[04:11:33.838] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788509080}
+[04:11:34.723] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:11:34.876] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:11:34.876] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/persona","route":"/persona"}
+[04:11:34.876] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/persona color: rgb(120, 120, 120) color: inherit {"dp":"/persona","o":"http://localhost:3000/persona","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788510124}
+[04:11:37.299] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:11:37.585] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:11:37.586] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[04:11:37.586] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788512832}
+[04:14:08.202] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:69:130
+Parsing ecmascript source code failed
+  67 |     </button>
+  68 |   </Link>
+> 69 | bg-gradient-to-r from-blue-600 to-purple-600 text-white hover:from-blue-700 hover:to-purple-700 rounded-full px-6 transition-all">
+     |                                                                                                                                  ^
+  70 |       Home
+  71 |   <Link href="/about">
+  72 |     <Button variant="ghost" className="bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[04:15:15.117] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:15:15.318] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:15:15.318] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[04:15:15.318] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788730567}
+[04:15:26.281] Server  LOG      ✓ Compiled in 1414ms
+[04:15:27.618] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:15:27.761] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:15:27.761] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[04:15:27.761] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788743000}
+[04:16:07.549] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:16:07.831] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:16:07.831] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[04:16:07.831] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788783013}
+[04:16:10.553] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788785587}
+[04:16:10.749] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788785988}
+[04:16:11.874] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788787120}
+[04:16:13.025] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788788265}
+[04:16:14.306] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788789549}
+[04:17:06.630] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788841868}
+[04:17:35.000] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788870061}
+[04:17:35.374] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788870618}
+[04:17:36.148] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:17:36.292] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:17:36.292] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/courses","route":"/courses"}
+[04:17:36.292] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/courses color: rgb(120, 120, 120) color: inherit {"dp":"/courses","o":"http://localhost:3000/courses","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788871539}
+[04:17:38.072] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:17:38.240] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:17:38.240] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[04:17:38.240] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767788873484}
+[04:20:24.202] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/header.tsx:92:14
+Parsing ecmascript source code failed
+  90 |     ></button>
+  91 |       Courses
+> 92 |     </Button>
+     |              ^
+> 93 |   </Link>
+     | ^^^
+  94 |
+  95 |   <Link href="/persona">
+  96 |     <Button variant="ghost" className="text-gray-700 hover:text-blue-900">
+
+Expected '</', got 'jsx text (
+  )'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/header.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[04:21:49.567] Server  LOG      ✓ Compiled in 248ms
+[04:21:53.538] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767789128774}
+[04:21:54.342] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:21:54.475] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:21:54.475] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/courses","route":"/courses"}
+[04:21:54.475] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/courses color: rgb(120, 120, 120) color: inherit {"dp":"/courses","o":"http://localhost:3000/courses","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767789129722}
+[04:21:56.726] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:21:56.999] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[04:21:56.999] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[04:21:56.999] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767789132247}
+[04:21:58.630] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767789133873}
+[05:07:59.390] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[05:08:01.450] Server  LOG      ✓ Compiled in 29s
+[05:08:01.746] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[05:08:01.746] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/about. Falling back to browser navigation. {}
+[05:08:01.746] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[05:08:01.746] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[05:08:01.746] Browser ERROR   Failed to fetch RSC payload for http://localhost:3000/. Falling back to browser navigation. {}
+[05:08:01.746] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:10.539] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:23.090] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[05:08:25.795] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:25.795] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:25.795] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:25.795] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:25.795] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:26.463] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:26.463] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:26.463] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:26.463] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:26.463] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:27.914] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[05:08:27.923] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:27.923] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:28.553] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:08:29.208] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:73
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                         ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:09:04.230] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:79
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="public/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                               ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:09:11.396] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:79
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="public/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                               ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[05:09:11.804] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:79
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="public/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                               ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:09:11.804] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:79
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="public/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                               ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:09:11.919] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:79
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="public/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                               ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:09:15.988] Browser ERROR   uncaughtError: Error: ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:79
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="public/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                               ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[05:09:18.596] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:79
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="public/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                               ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:09:18.638] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:79
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="public/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                               ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[05:09:18.852] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:79
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="public/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                               ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:09:18.852] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:79
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="public/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                               ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:09:19.778] Browser ERROR   uncaughtError: Error: ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:79
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="public/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                               ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[05:09:19.892] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:79
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="public/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                               ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:09:20.048] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:46:79
+Parsing ecmascript source code failed
+  44 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  45 |             <Image
+> 46 |               src="public/image.jpg"   {/* place image in /public/image.jpg */}
+     |                                                                               ^
+  47 |               alt="Global partnership and commitment"
+  48 |               fill
+  49 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:10:10.492] Server  LOG      ✓ Compiled in 31s
+[05:10:14.022] Server  LOG      ○ Compiling /about ...
+[05:12:59.809] Server  LOG      ✓ Compiled in 430ms
+[05:13:13.235] Server  LOG      ✓ Compiled in 937ms
+[05:13:24.804] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:13:24.804] Browser ERROR   unhandledRejection: Error: Connection closed.
+[05:14:07.782] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:14:32.368] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:14:37.441] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:14:37.441] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[05:14:37.441] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767792289562}
+[05:15:02.114] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:15:02.485] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:15:02.485] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[05:15:02.485] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767792317489}
+[05:15:44.513] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:15:44.671] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:15:44.671] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[05:15:44.671] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767792359886}
+[05:17:28.198] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:52:5
+Parsing ecmascript source code failed
+  50 |         </div>
+  51 |       </div>
+> 52 |     </section>
+     |     ^
+  53 |   )
+  54 | }
+  55 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:17:28.198] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:52:6
+Parsing ecmascript source code failed
+  50 |         </div>
+  51 |       </div>
+> 52 |     </section>
+     |      ^^^^^^^^^
+  53 |   )
+  54 | }
+  55 |
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:17:35.390] Server  LOG      ✓ Compiled in 202ms
+[05:21:08.113] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:53:5
+Parsing ecmascript source code failed
+  51 |         </div>
+  52 |       
+> 53 |     </section>
+     |     ^
+  54 |   )
+  55 | }
+  56 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+
+./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:53:6
+Parsing ecmascript source code failed
+  51 |         </div>
+  52 |       
+> 53 |     </section>
+     |      ^^^^^^^^^
+  54 |   )
+  55 | }
+  56 |
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[05:21:09.043] Browser ERROR   uncaughtError: Error: ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:53:5
+Parsing ecmascript source code failed
+  51 |         </div>
+  52 |       
+> 53 |     </section>
+     |     ^
+  54 |   )
+  55 | }
+  56 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[05:21:09.246] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:53:5
+Parsing ecmascript source code failed
+  51 |         </div>
+  52 |       
+> 53 |     </section>
+     |     ^
+  54 |   )
+  55 | }
+  56 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:21:09.246] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:53:6
+Parsing ecmascript source code failed
+  51 |         </div>
+  52 |       
+> 53 |     </section>
+     |      ^^^^^^^^^
+  54 |   )
+  55 | }
+  56 |
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:21:09.768] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:53:5
+Parsing ecmascript source code failed
+  51 |         </div>
+  52 |       
+> 53 |     </section>
+     |     ^
+  54 |   )
+  55 | }
+  56 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:21:09.768] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:53:6
+Parsing ecmascript source code failed
+  51 |         </div>
+  52 |       
+> 53 |     </section>
+     |      ^^^^^^^^^
+  54 |   )
+  55 | }
+  56 |
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:21:44.204] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:53:5
+Parsing ecmascript source code failed
+  51 |         </div>
+  52 |       
+> 53 |     </section>
+     |     ^
+  54 |   )
+  55 | }
+  56 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:21:44.204] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:53:6
+Parsing ecmascript source code failed
+  51 |         </div>
+  52 |       
+> 53 |     </section>
+     |      ^^^^^^^^^
+  54 |   )
+  55 | }
+  56 |
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:22:08.026] Server  LOG      ✓ Compiled in 911ms
+[05:22:10.254] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:22:11.213] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:22:11.213] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[05:22:11.213] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767792745663}
+[05:22:29.203] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:54:5
+Parsing ecmascript source code failed
+  52 |         </div>
+  53 |       
+> 54 |     </section>
+     |     ^
+  55 |   )
+  56 | }
+  57 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:22:29.203] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:54:6
+Parsing ecmascript source code failed
+  52 |         </div>
+  53 |       
+> 54 |     </section>
+     |      ^^^^^^^^^
+  55 |   )
+  56 | }
+  57 |
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:22:32.735] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:54:5
+Parsing ecmascript source code failed
+  52 |         </div>
+  53 |       
+> 54 |     </section>
+     |     ^
+  55 |   )
+  56 | }
+  57 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+
+./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:54:6
+Parsing ecmascript source code failed
+  52 |         </div>
+  53 |       
+> 54 |     </section>
+     |      ^^^^^^^^^
+  55 |   )
+  56 | }
+  57 |
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[05:22:33.535] Browser ERROR   uncaughtError: Error: ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:54:5
+Parsing ecmascript source code failed
+  52 |         </div>
+  53 |       
+> 54 |     </section>
+     |     ^
+  55 |   )
+  56 | }
+  57 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[05:22:33.748] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:54:5
+Parsing ecmascript source code failed
+  52 |         </div>
+  53 |       
+> 54 |     </section>
+     |     ^
+  55 |   )
+  56 | }
+  57 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:22:33.748] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:54:6
+Parsing ecmascript source code failed
+  52 |         </div>
+  53 |       
+> 54 |     </section>
+     |      ^^^^^^^^^
+  55 |   )
+  56 | }
+  57 |
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:22:34.327] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:54:5
+Parsing ecmascript source code failed
+  52 |         </div>
+  53 |       
+> 54 |     </section>
+     |     ^
+  55 |   )
+  56 | }
+  57 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:22:34.327] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:54:6
+Parsing ecmascript source code failed
+  52 |         </div>
+  53 |       
+> 54 |     </section>
+     |      ^^^^^^^^^
+  55 |   )
+  56 | }
+  57 |
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:22:59.201] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:53:5
+Parsing ecmascript source code failed
+  51 |         </div>
+  52 |       
+> 53 |     </section>
+     |     ^
+  54 |   )
+  55 | }
+  56 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:22:59.201] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:53:6
+Parsing ecmascript source code failed
+  51 |         </div>
+  52 |       
+> 53 |     </section>
+     |      ^^^^^^^^^
+  54 |   )
+  55 | }
+  56 |
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:23:03.211] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:53:5
+Parsing ecmascript source code failed
+  51 |         </div>
+  52 |       
+> 53 |     </section>
+     |     ^
+  54 |   )
+  55 | }
+  56 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:23:03.211] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:53:6
+Parsing ecmascript source code failed
+  51 |         </div>
+  52 |       
+> 53 |     </section>
+     |      ^^^^^^^^^
+  54 |   )
+  55 | }
+  56 |
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:24:51.197] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:45:75
+Parsing ecmascript source code failed
+  43 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  44 |             <Image
+> 45 |               src="/image.jpg"   {/* image must be in /public/image.jpg */}
+     |                                                                           ^
+  46 |               alt="Global partnership and commitment"
+  47 |               fill
+  48 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:24:58.203] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:45:75
+Parsing ecmascript source code failed
+  43 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  44 |             <Image
+> 45 |               src="/image.jpg"   {/* image must be in /public/image.jpg */}
+     |                                                                           ^
+  46 |               alt="Global partnership and commitment"
+  47 |               fill
+  48 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:25:54.313] Server  ERROR    ⨯ ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:45:75
+Parsing ecmascript source code failed
+  43 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  44 |             <Image
+> 45 |               src="/image.jpg"   {/* image must be in /public/image.jpg */}
+     |                                                                           ^
+  46 |               alt="Global partnership and commitment"
+  47 |               fill
+  48 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[05:25:54.336] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:45:75
+Parsing ecmascript source code failed
+  43 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  44 |             <Image
+> 45 |               src="/image.jpg"   {/* image must be in /public/image.jpg */}
+     |                                                                           ^
+  46 |               alt="Global partnership and commitment"
+  47 |               fill
+  48 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:25:54.336] Browser ERROR   ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:45:75
+Parsing ecmascript source code failed
+  43 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  44 |             <Image
+> 45 |               src="/image.jpg"   {/* image must be in /public/image.jpg */}
+     |                                                                           ^
+  46 |               alt="Global partnership and commitment"
+  47 |               fill
+  48 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+[05:25:54.373] Server  LOG      ✓ Compiled in 0ms
+[05:25:54.437] Browser ERROR   uncaughtError: Error: ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx:45:75
+Parsing ecmascript source code failed
+  43 |           <div className="relative h-full min-h-[350px] lg:min-h-[520px]">
+  44 |             <Image
+> 45 |               src="/image.jpg"   {/* image must be in /public/image.jpg */}
+     |                                                                           ^
+  46 |               alt="Global partnership and commitment"
+  47 |               fill
+  48 |               className="object-cover"
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./Desktop/harvard/harvard_learning-main/components/commitment-section.tsx
+    ./Desktop/harvard/harvard_learning-main/app/about/page.tsx
+
+
+[05:26:01.125] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:26:16.422] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:26:24.678] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:26:24.678] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[05:26:24.678] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767792999926}
+[05:27:26.239] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:27:26.597] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:27:26.597] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[05:27:26.597] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767793061620}
+[05:29:00.126] Server  LOG      ✓ Compiled in 3.3s
+[05:29:00.730] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:29:00.979] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:29:00.979] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[05:29:00.979] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767793156107}
+[05:31:09.003] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:31:09.222] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:31:09.222] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[05:31:09.222] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767793284386}
+[05:35:25.826] Server  LOG      ✓ Compiled in 4.9s
+[05:35:26.295] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:35:26.572] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[05:35:26.572] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/about","route":"/about"}
+[05:35:26.572] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/about color: rgb(120, 120, 120) color: inherit {"dp":"/about","o":"http://localhost:3000/about","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767793541684}

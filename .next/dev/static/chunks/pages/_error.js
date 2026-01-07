@@ -1,13 +1,13 @@
 __turbopack_load_page_chunks__("/_error", [
-  "static/chunks/f3100_next_dist_compiled_640dfdc5._.js",
-  "static/chunks/f3100_next_dist_shared_lib_3288346c._.js",
-  "static/chunks/f3100_next_dist_client_dc1ec548._.js",
-  "static/chunks/f3100_next_dist_70c1d2c2._.js",
-  "static/chunks/f3100_next_error_6b20b281.js",
-  "static/chunks/[next]_entry_page-loader_ts_71fd3597._.js",
-  "static/chunks/f3100_react-dom_71bc9ceb._.js",
-  "static/chunks/f3100_76375305._.js",
-  "static/chunks/[root-of-the-server]__0f6efce0._.js",
-  "static/chunks/Desktop_harvard_learning-main_harvard_learning-main_pages__error_2da965e7._.js",
-  "static/chunks/88e7d_harvard_learning-main_harvard_learning-main_pages__error_9ef21876._.js"
+  "static/chunks/814c8_next_dist_compiled_edff6b1f._.js",
+  "static/chunks/814c8_next_dist_shared_lib_9b26c66b._.js",
+  "static/chunks/814c8_next_dist_client_71184908._.js",
+  "static/chunks/814c8_next_dist_6d48cd94._.js",
+  "static/chunks/814c8_next_error_24c74990.js",
+  "static/chunks/[next]_entry_page-loader_ts_a4af29f0._.js",
+  "static/chunks/814c8_react-dom_efa0c5c5._.js",
+  "static/chunks/814c8_28b5e68f._.js",
+  "static/chunks/[root-of-the-server]__5faf11a0._.js",
+  "static/chunks/Desktop_harvard_harvard_learning-main_pages__error_2da965e7._.js",
+  "static/chunks/turbopack-Desktop_harvard_harvard_learning-main_pages__error_bab1b212._.js"
 ])
